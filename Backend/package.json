@@ -24,6 +24,6 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "mongoose": "^5.8.3",
-    "validator": "^12.1.0"
+    "validator": "^13.7.0"
   }
 }
